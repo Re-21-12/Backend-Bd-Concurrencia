@@ -1,0 +1,13 @@
+[
+  {
+    "name": "default",
+    "type": "oracle",
+    "host": "localhost",
+    "port": 1521,
+    "username": "BANCARIO",
+    "password": "Alfredo+123",
+    "database": "",
+    "synchronize": false,
+    "entities": ["entities/*.js"]
+  }
+]
